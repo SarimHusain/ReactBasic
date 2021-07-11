@@ -27,3 +27,6 @@ export default class App extends Component {
     )
   }
 }
+
+var test;
+test = "GIt testing is being done here"
